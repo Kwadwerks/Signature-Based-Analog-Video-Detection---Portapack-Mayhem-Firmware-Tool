@@ -1,4 +1,4 @@
-THIS PROJECT EARLY WIP. NO GUARANTESS ARE PROVIDED AND THIS SOFTWARE IS NOT RECOMMENEDED FOR COMBAT USE AT THIS TIME.
+THIS PROJECT EARLY WIP. NO GUARANTEES ARE PROVIDED AND THIS SOFTWARE IS NOT RECOMMENEDED FOR COMBAT USE AT THIS TIME.
 
 AI Disclaimer: This project is aided by AI Coding agents that are ran locally on my system via publicly acquired weights(e.g. no data center usage).
 
